@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\bin\Debug\net5.0\ExerciciosCS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\refint\ExerciciosCS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ExerciciosCS.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\obj\Debug\net5.0\ref\ExerciciosCS.dll

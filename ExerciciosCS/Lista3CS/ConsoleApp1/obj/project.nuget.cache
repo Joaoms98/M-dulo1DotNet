@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJqdwq24Cc8Iw+0D+n3uEdjG+UqEeM+Dn0REhCXM3OZIJnHL2lDU0b+yfqrXOKGIa3APJs0Hoo9wwCkfFDuxPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista3CS\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

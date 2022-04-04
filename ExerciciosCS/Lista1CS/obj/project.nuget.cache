@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1ShQgCPVI0uy9kQgu507A6J9kwuRRTg/mjdCqtM8iNRleLOtZ04+rY1tOWsmBWsGzrHt62bNSUH0vTtHBImGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\ExerciciosCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
