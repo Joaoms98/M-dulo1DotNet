@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/IpUlPcSBwv/6ZVFpyu/FOKMeYsHGKL3lYopxebsLqQ7Le6oMcY4ox+Ec1UUuAk5cs1xLq7mn0bkgEUILRbMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

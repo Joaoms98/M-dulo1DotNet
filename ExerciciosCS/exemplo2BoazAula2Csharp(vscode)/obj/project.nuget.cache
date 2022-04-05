@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHjH+ObODEP9D6kLQX7xn+QVKbgibWfknFXXmjUQvXzs3ElempioQhEf0OWxytezWlO5XqMnADlIRmpce9ITAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\exemplo2BoazAula2Csharp(vscode)\\exemplo2BoazAula2Csharp(vscode).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

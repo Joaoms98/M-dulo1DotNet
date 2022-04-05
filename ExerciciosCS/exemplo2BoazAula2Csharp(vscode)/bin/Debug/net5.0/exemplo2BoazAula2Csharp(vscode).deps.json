@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exemplo2BoazAula2Csharp(vscode)/1.0.0": {
+        "runtime": {
+          "exemplo2BoazAula2Csharp(vscode).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo2BoazAula2Csharp(vscode)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

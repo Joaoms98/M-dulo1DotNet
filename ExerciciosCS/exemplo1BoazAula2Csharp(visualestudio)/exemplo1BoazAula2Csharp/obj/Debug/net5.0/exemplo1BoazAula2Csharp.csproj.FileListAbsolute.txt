@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\bin\Debug\net5.0\exemplo1BoazAula2Csharp.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\refint\exemplo1BoazAula2Csharp.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\exemplo1BoazAula2Csharp.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\exemplo1BoazAula2Csharp\exemplo1BoazAula2Csharp\obj\Debug\net5.0\ref\exemplo1BoazAula2Csharp.dll
