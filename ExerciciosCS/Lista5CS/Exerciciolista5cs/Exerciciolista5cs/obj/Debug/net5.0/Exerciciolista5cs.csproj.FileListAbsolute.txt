@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\bin\Debug\net5.0\Exerciciolista5cs.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\refint\Exerciciolista5cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\Exerciciolista5cs.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista5CS\Exerciciolista5cs\Exerciciolista5cs\obj\Debug\net5.0\ref\Exerciciolista5cs.dll
