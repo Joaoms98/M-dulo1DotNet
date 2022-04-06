@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\bin\Debug\net5.0\Exemploaula3-ex2.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\refint\Exemploaula3-ex2.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\Exemploaula3-ex2.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Exemploaula3ex2EstruturaDeRepeticao\obj\Debug\net5.0\ref\Exemploaula3-ex2.dll
