@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\bin\Debug\net5.0\Lista6CS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\refint\Lista6CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\Lista6CS.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\C#\Lista6CS\Lista6CS\obj\Debug\net5.0\ref\Lista6CS.dll
