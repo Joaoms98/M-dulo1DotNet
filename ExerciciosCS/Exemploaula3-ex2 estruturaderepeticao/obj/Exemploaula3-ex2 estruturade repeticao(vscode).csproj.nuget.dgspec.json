@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj": {}
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-ex2 estruturade repeticao(vscode)\\Exemploaula3-ex2 estruturade repeticao(vscode).csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj": {
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-ex2 estruturade repeticao(vscode)\\Exemploaula3-ex2 estruturade repeticao(vscode).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
-        "projectName": "exemplo1BoazAula2Csharp",
-        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-ex2 estruturade repeticao(vscode)\\Exemploaula3-ex2 estruturade repeticao(vscode).csproj",
+        "projectName": "Exemploaula3-ex2 estruturade repeticao(vscode)",
+        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-ex2 estruturade repeticao(vscode)\\Exemploaula3-ex2 estruturade repeticao(vscode).csproj",
         "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\obj\\",
+        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-ex2 estruturade repeticao(vscode)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHklLjD8mki6vDbBeDUH2hvI2ySTK1NncXO0ZSU5tolimnNYqt5AKxF0O9RovWFk24CFveBJd8Hp4fFL2BS6+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

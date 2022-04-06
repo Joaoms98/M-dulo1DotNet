@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
-      "projectName": "exemplo1BoazAula2Csharp",
-      "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao.csproj",
+      "projectName": "Exemploaula3-estruturaderepeticao",
+      "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao.csproj",
       "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\obj\\",
+      "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Exemploaula3-estruturaderepeticao\\Exemploaula3-estruturaderepeticao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",

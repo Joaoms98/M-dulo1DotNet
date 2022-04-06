@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/IpUlPcSBwv/6ZVFpyu/FOKMeYsHGKL3lYopxebsLqQ7Le6oMcY4ox+Ec1UUuAk5cs1xLq7mn0bkgEUILRbMw==",
+  "dgSpecHash": "6MhXryZBdA9sMvHaqeZ2b+WE88YU8dOvfxNvCqcHlbOEpaPi801DE8wpYD7M3UR0ZH5Riyx9FGw6OYmwd87Klw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\exemplo1BoazAula2Csharp(visualestudio)\\exemplo1BoazAula2Csharp\\exemplo1BoazAula2Csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exemploaula3-ex2 estruturade repeticao(vscode)/1.0.0": {
+        "runtime": {
+          "Exemploaula3-ex2 estruturade repeticao(vscode).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemploaula3-ex2 estruturade repeticao(vscode)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
