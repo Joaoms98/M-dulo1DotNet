@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ig3lAgYb+9w/8qx0LBOF78UmQFOOB3p3mR4F68aCNz54I+/J1P8577qoEaD2Y4n+t1aeKba/tBoCsCzO0m8Oew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Lista7CS\\Lista7CS\\Lista7CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
