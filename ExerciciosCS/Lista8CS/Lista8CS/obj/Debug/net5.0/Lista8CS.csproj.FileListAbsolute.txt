@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\bin\Debug\net5.0\Lista8CS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\refint\Lista8CS.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\Lista8CS.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista8CS\Lista8CS\obj\Debug\net5.0\ref\Lista8CS.dll

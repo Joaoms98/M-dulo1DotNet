@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ig3lAgYb+9w/8qx0LBOF78UmQFOOB3p3mR4F68aCNz54I+/J1P8577qoEaD2Y4n+t1aeKba/tBoCsCzO0m8Oew==",
+  "dgSpecHash": "O9R/k72ZJOsK/AExQX4J9S7xvaGQHaKF08dD+9KwRoR2WBoAKng7zE8rUiAlF4XVTu1tsWa1YJs46Yr/4T4uyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\C#\\Lista7CS\\Lista7CS\\Lista7CS.csproj",
+  "projectFilePath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\Lista7CS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvm18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

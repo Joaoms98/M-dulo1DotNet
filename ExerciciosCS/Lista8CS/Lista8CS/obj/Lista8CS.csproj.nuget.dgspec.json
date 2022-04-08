@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\Lista7CS.csproj": {}
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista8CS\\Lista8CS\\Lista8CS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\Lista7CS.csproj": {
+    "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista8CS\\Lista8CS\\Lista8CS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\Lista7CS.csproj",
-        "projectName": "Lista7CS",
-        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\Lista7CS.csproj",
+        "projectUniqueName": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista8CS\\Lista8CS\\Lista8CS.csproj",
+        "projectName": "Lista8CS",
+        "projectPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista8CS\\Lista8CS\\Lista8CS.csproj",
         "packagesPath": "C:\\Users\\jvm18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista7CS\\Lista7CS\\obj\\",
+        "outputPath": "C:\\Users\\jvm18\\Desktop\\prograhmaisaoção\\Modulo1DotNet-Atividades-Plataforma\\ExerciciosCS\\Lista8CS\\Lista8CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jvm18\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.15, 5.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
