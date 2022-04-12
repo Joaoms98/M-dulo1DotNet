@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.exe
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.deps.json
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.runtimeconfig.json
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.dll
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\bin\Debug\net5.0\Aula11BoazListExemplos.pdb
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.dll
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\refint\Aula11BoazListExemplos.dll
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.pdb
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\Aula11BoazListExemplos.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\Aula11BoazListExemplos\Aula11BoazListExemplos\obj\Debug\net5.0\ref\Aula11BoazListExemplos.dll
