@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\bin\Debug\net5.0\ExemploAulaBoazHerança1.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\refint\ExemploAulaBoazHerança1.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ExemploAulaBoazHerança1.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\ExemploAulaBoazHerança1\obj\Debug\net5.0\ref\ExemploAulaBoazHerança1.dll
