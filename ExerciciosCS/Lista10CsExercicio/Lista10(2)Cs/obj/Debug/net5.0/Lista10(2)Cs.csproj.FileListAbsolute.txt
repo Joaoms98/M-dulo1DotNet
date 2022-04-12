@@ -1,0 +1,16 @@
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.exe
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.deps.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.runtimeconfig.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.runtimeconfig.dev.json
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\bin\Debug\net5.0\Lista10(2)Cs.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.csproj.AssemblyReference.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.AssemblyInfoInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.AssemblyInfo.cs
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.csproj.CoreCompileInputs.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\refint\Lista10(2)Cs.dll
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.pdb
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\Lista10(2)Cs.genruntimeconfig.cache
+C:\Users\jvm18\Desktop\prograhmaisaoção\Modulo1DotNet-Atividades-Plataforma\ExerciciosCS\Lista10CsExercicio\Lista10(2)Cs\obj\Debug\net5.0\ref\Lista10(2)Cs.dll
